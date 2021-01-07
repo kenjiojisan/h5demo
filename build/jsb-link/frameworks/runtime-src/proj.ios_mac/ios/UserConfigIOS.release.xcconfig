@@ -1,0 +1,4 @@
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+
+#include "C:\CocosCreator_2_2_1\resources\cocos2d-x/cocos/platform/ios/CCModuleConfigIOS.release.xcconfig"
